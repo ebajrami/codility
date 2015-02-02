@@ -1,2 +1,2 @@
-# codility
-One way of resolving challenges from codility.com
+# Codility
+One way of resolving [lesson challenges](https://codility.com/programmers/lessons/) from [Codility](https://codility.com/).
