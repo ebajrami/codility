@@ -3,3 +3,5 @@ One way of resolving [lesson challenges](https://codility.com/programmers/lesson
 
 ##### Painless
 - [FrogJmp](https://github.com/kkostrebic/codility/blob/master/painless/frog_jmp.rb)
+- [PermMissingElem](https://github.com/kkostrebic/codility/blob/master/painless/perm_missing_elem.rb)
+- [TapeEquilibrium](https://github.com/kkostrebic/codility/blob/master/painless/tape_equilibrium.rb)
