@@ -7,3 +7,7 @@ One way of resolving [lesson challenges](https://codility.com/programmers/lesson
 - [TapeEquilibrium](https://github.com/kkostrebic/codility/blob/master/painless/tape_equilibrium.rb)
 - [PermCheck](https://github.com/kkostrebic/codility/blob/master/painless/perm_check.rb)
 - [FrogRiverOne](https://github.com/kkostrebic/codility/blob/master/painless/frog_river_one.rb)
+
+##### Respectable
+- [MaxCounters](https://github.com/kkostrebic/codility/blob/master/respectable/max_counters.rb)
+- [MissingInteger](https://github.com/kkostrebic/codility/blob/master/respectable/missing_integer.rb)
